@@ -1,0 +1,52 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Dec 11 09:10:55 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000a4
+   .config_2007_DENEY-7.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000051      
+                            0x002007    0x002007      
+            83 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  GECIKME   0x000049    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  KONTROL   0x000024    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+              LCD_AYARLAR   0x000029    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+             LCD_KARAKTER   0x000043    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+          LCD_KARAKTERLER   0x000035    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                LCD_KOMUT   0x00003d    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEKRAR1   0x00004b    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEKRAR2   0x00004d    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEMIZLE   0x000030    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  KONTROL   0x000024    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+              LCD_AYARLAR   0x000029    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEMIZLE   0x000030    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+          LCD_KARAKTERLER   0x000035    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                LCD_KOMUT   0x00003d    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+             LCD_KARAKTER   0x000043    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  GECIKME   0x000049    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEKRAR1   0x00004b    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+                  TEKRAR2   0x00004d    program     static D:\mikroislemciler\2018GuzDonemi\7.deney\deney-7.asm
+
+

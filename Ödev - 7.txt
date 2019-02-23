@@ -1,0 +1,3 @@
+Bilgisayara taklý olan USB-TTL seri dönüþtürücü kablo ile deney setinin COM PORT una gönderilen karakterleri 2x16 LCD de görüntüleyecek asm programýný yazýnýz. 
+Asenkron iletiþiminizi;  hýzý 9600 bps, 8-bit, no-parity ve 1 bit stop olacak þekilde konfigüre ediniz. 
+Sürekli dinleme modunda bekleyecek olan iþlemciniz, gelen her karakteri anýnda LCD de görüntüleyecektir. 
